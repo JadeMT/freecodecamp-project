@@ -1,0 +1,1 @@
+這些是在freecodecamp獲得Scientific Computing with Python certificate的專案
